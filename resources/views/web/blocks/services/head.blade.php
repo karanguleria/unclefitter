@@ -13,6 +13,8 @@
     <link href="{{ asset('assets/plugins/sweetalert/sweetalert.css')}}" rel="stylesheet" type="text/css"/>
     <link href="{{asset('web/css/style.css')}}" rel="stylesheet">
     <link href="{{asset('css/custom.css')}}" rel="stylesheet">
+    <!-- Custom new CSS -->
+    <link href="{{ asset('css/custom-style.css') }}" rel="stylesheet" type="text/css" />
     <!--<link href="{{asset('assets/dist/css/styleBD.css')}}" rel="stylesheet">-->
     <!-- Scripts -->
     <script>
